@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity22\bin\Debug\Activity22.exe.config
+C:\Users\HP\source\repos\Activity22\bin\Debug\Activity22.exe
+C:\Users\HP\source\repos\Activity22\bin\Debug\Activity22.pdb
+C:\Users\HP\source\repos\Activity22\obj\Debug\Activity22.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity22\obj\Debug\Activity22.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity22\obj\Debug\Activity22.exe
+C:\Users\HP\source\repos\Activity22\obj\Debug\Activity22.pdb
